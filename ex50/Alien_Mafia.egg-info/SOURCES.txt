@@ -1,0 +1,12 @@
+setup.py
+Alien_Mafia.egg-info/PKG-INFO
+Alien_Mafia.egg-info/SOURCES.txt
+Alien_Mafia.egg-info/dependency_links.txt
+Alien_Mafia.egg-info/requires.txt
+Alien_Mafia.egg-info/top_level.txt
+Game/__init__.py
+Game/inventory.py
+Game/lexicon.py
+Game/play.py
+Game/rooms.py
+Game/sentence.py
