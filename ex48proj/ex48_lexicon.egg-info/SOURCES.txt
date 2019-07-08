@@ -1,0 +1,8 @@
+setup.py
+ex48/__init__.py
+ex48/lexicon.py
+ex48_lexicon.egg-info/PKG-INFO
+ex48_lexicon.egg-info/SOURCES.txt
+ex48_lexicon.egg-info/dependency_links.txt
+ex48_lexicon.egg-info/requires.txt
+ex48_lexicon.egg-info/top_level.txt
